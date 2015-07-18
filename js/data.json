@@ -1,0 +1,118 @@
+[
+	{
+		"name":"Plains",
+		"type":"Basic Land - Plains",
+		"deck":"UW Angels"
+	},	
+	{
+		"name":"Citadel Seige",
+		"type":"Enchantment",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Wingmate Roc",
+		"type":"Creature - Bird",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Angel of Serenity",
+		"type":"Creature - Angel",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Cavern of Souls",
+		"type":"Land",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Archangel of Thune",
+		"type":"Creature - Angel",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Flooded Strand",
+		"type":"Land",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Herald of War",
+		"type":"Creature - Angel",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Ajani Steadfast",
+		"type":"Planeswalker - Ajani",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Angelic Destiny",
+		"type":"Enchantment - Aura",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Ethereal Armor",
+		"type":"Enchantment - Aura",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Thassa, God of the Sea",
+		"type":"Legendary Enchantment Creature - God",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Sphinx's Revelation",
+		"type":"Instant",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Eidolon of Countless battles",
+		"type":"Enchantment Creature - Spirit",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Reflecting Pool",
+		"type":"Land",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Render Silent",
+		"type":"Instant",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Detention Sphere",
+		"type":"Enchantment",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Spear of Heliod",
+		"type":"Legendary Enchantment Artifact",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Luminarch Ascension",
+		"type":"Enchantment",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Baneslayer Angel",
+		"type":"Creature - Angel",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"",
+		"type":"",
+		"deck":""
+	},
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
