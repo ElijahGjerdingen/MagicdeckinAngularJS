@@ -100,19 +100,38 @@
 		"deck":"UW Angels"
 	},
 	{
-		"name":"",
-		"type":"",
-		"deck":""
+		"name":"Bruna, Light of Alabaster",
+		"type":"Legendary Creature - Angel",
+		"deck":"UW Angels"
 	},
-]
-]
-]
-]
-]
-]
-]
-]
-]
-]
-]
+	{
+		"name":"Island",
+		"type":"Basic Land - Island",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Hero of Iroas",
+		"type":"Creature - Human Soldier",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Mana Confluence",
+		"type":"Land",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Spectra Ward",
+		"type":"Enchantment - Aura",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Celestial Mantle",
+		"type":"Enchantment - Aura",
+		"deck":"UW Angels"
+	},
+	{
+		"name":"Hallowed Fountain",
+		"type":"Land - Plains Island",
+		"deck":"UW Angels"
+	}
 ]
